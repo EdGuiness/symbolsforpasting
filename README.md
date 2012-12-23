@@ -1,0 +1,4 @@
+symbolsforpasting
+=================
+
+Symbols for pasting
