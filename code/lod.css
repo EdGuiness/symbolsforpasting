@@ -1,0 +1,19 @@
+.lod {
+    font-size: x-large;
+    position: relative;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 2em;
+}
+
+body {
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 350px;
+}
+
+.small {
+    font-size: small;
+    text-align: center;
+}
