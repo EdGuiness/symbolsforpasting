@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "Symbols for pasting",
-  "version": "0.0.0.7",
+  "version": "0.0.0.10",
   "manifest_version": 2,
   "description": "Click on a symbol to copy it.",
   "browser_action": {
